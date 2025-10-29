@@ -1,0 +1,536 @@
+[
+  {
+    "nama_obat": "Paracetamol 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Paracetamol (asetaminofen) 500 mg sebagai zat aktif utama, dengan bahan tambahan seperti pati jagung, magnesium stearat, dan povidone untuk pembentukan tablet.",
+    "deskripsi": "Paracetamol adalah obat untuk meredakan demam dan nyeri, termasuk sakit kepala, nyeri haid, sakit gigi, atau pegal-pegal. Obat ini bekerja langsung pada pusat pengaturan suhu tubuh dan rasa sakit di otak.",
+    "harga": "Rp 12.000 (per box 100 tablet)",
+    "efek_samping": "Sakit kepala, mual atau muntah, sulit tidur, memar atau perdarahan yang tidak biasa, perut bagian atas kanan terasa sakit, urine berwarna gelap, feses berwarna seperti tanah liat, penyakit kuning.",
+    "anjuran_pemakaian": "Dewasa: 500–1.000 mg setiap 4–6 jam, maksimal 4.000 mg per hari (3-4 kali sehari). Anak: Disesuaikan dengan usia dan berat badan.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0104k0131.jpg"
+  },
+  {
+    "nama_obat": "Ibuprofen 400 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Ibuprofen 400 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin, krosspovidone, dan magnesium stearat untuk pengikatan dan pelapis.",
+    "deskripsi": "Ibuprofen adalah obat pereda nyeri dan penurun demam yang meredakan nyeri haid, sakit kepala, migrain, sakit gigi, sakit pinggang, nyeri terkilir, atau demam saat flu maupun pilek. Memiliki efek antiperadangan.",
+    "harga": "Rp 33.000 (per box 100 tablet)",
+    "efek_samping": "Sensasi panas di dada, perut kembung, mual dan muntah, diare atau sembelit, sakit maag, nyeri lambung, pusing, sakit kepala. Efek serius: ruam kulit, perdarahan lambung, gangguan ginjal.",
+    "anjuran_pemakaian": "Dewasa: 200–400 mg setiap 4–6 jam, maksimal 1.200 mg per hari (3 kali sehari). Anak: 4–10 mg/kgBB setiap 6–8 jam.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_2021111902064823085_indo-indo-ibuprofen-400-mg-obat-resep-dokter-10-tablet--1-strip--full11.jpg"
+  },
+  {
+    "nama_obat": "Amoxicillin 500 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Amoxicillin trihidrat setara dengan Amoxicillin 500 mg sebagai zat aktif utama, dengan bahan pengisi seperti magnesium stearat dan selulosa.",
+    "deskripsi": "Amoxicillin adalah obat antibiotik untuk mengatasi infeksi bakteri seperti infeksi telinga, tonsilitis, bronkitis, otitis media, infeksi ginjal, sinusitis, abses mulut/tenggorokan, infeksi saluran kemih, faringitis, abses gigi, tukak lambung akibat H. pylori, demam tifoid, pneumonia, dan gonore.",
+    "harga": "Rp 16.000 (per strip 10 tablet)",
+    "efek_samping": "Perubahan rasa pada lidah, mual, muntah, sakit kepala, diare, ruam. Efek serius: mudah memar/perdarahan, diare berat, demam/sakit tenggorokan, kulit/mata kuning, urine gelap, reaksi alergi.",
+    "anjuran_pemakaian": "Dewasa: 250–500 mg setiap 8 jam (3 kali sehari). Anak: 20–90 mg/kgBB/hari dibagi beberapa dosis. Selesaikan seluruh kursus pengobatan.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/0108c0076.jpg"
+  },
+  {
+    "nama_obat": "Omeprazole 20 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Omeprazole 20 mg sebagai zat aktif utama, dengan bahan tambahan seperti hypromellose, magnesium stearat, dan laktoza monohidrat untuk pengisian kapsul.",
+    "deskripsi": "Omeprazole adalah obat penghambat pompa proton (PPI) yang digunakan untuk mengobati gangguan asam lambung seperti GERD, tukak lambung, tukak duodenum, dan pencegahan tukak akibat NSAID.",
+    "harga": "Rp 25.000 (per strip 10 kapsul)",
+    "efek_samping": "Sakit kepala, mual, diare, sakit perut, sembelit, kembung, pusing. Efek serius: infeksi Clostridium difficile, defisiensi vitamin B12, hipomagnesemia, patah tulang.",
+    "anjuran_pemakaian": "Dewasa: 20 mg sekali sehari, diminum sebelum makan pagi. Durasi: 4-8 minggu untuk tukak. Anak: Disesuaikan dengan berat badan.",
+    "link_gambar": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1659852613_5fb373ee41ab59059e86704d"
+  },
+  {
+    "nama_obat": "Cetirizine 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Cetirizine dihydrochloride 10 mg sebagai zat aktif utama, dengan eksipien seperti laktosa, povidone, dan magnesium stearat untuk pembentukan tablet.",
+    "deskripsi": "Cetirizine adalah antihistamin generasi kedua untuk meredakan gejala alergi seperti rhinitis alergi, urtikaria, gatal-gatal, bersin-bersin, dan mata berair.",
+    "harga": "Rp 18.000 (per box 30 tablet)",
+    "efek_samping": "Mengantuk, mulut kering, sakit kepala, kelelahan, pusing, mual. Efek serius: reaksi alergi, aritmia jantung pada dosis tinggi.",
+    "anjuran_pemakaian": "Dewasa dan anak >6 tahun: 10 mg sekali sehari. Anak 2-6 tahun: 2.5-5 mg sehari. Hindari alkohol.",
+    "link_gambar": "https://res-5.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1687396105_cetirizine_pyridam-kf"
+  },
+  {
+    "nama_obat": "Metformin 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Metformin hydrochloride 500 mg sebagai zat aktif utama, dengan bahan tambahan seperti povidone, krosspovidone, dan magnesium stearat.",
+    "deskripsi": "Metformin adalah obat oral untuk pengobatan diabetes tipe 2, bekerja dengan mengurangi produksi glukosa hati dan meningkatkan sensitivitas insulin.",
+    "harga": "Rp 20.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, muntah, diare, sakit perut, kehilangan nafsu makan, rasa logam di mulut. Efek serius: asidosis laktat.",
+    "anjuran_pemakaian": "Dewasa: Mulai 500 mg 1-2 kali sehari, maksimal 2.500 mg/hari. Diminum dengan makanan. Pantau fungsi ginjal.",
+    "link_gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF0pKklaUDvbW7wG49qp7e5wYG2N2Gyndx0Q&s"
+  },
+  {
+    "nama_obat": "Amlodipine 5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Amlodipine besilate setara dengan Amlodipine 5 mg sebagai zat aktif utama, dengan eksipien seperti kalsium fosfat, dan magnesium stearat.",
+    "deskripsi": "Amlodipine adalah kalsium channel blocker untuk mengobati hipertensi dan angina pektoris, bekerja dengan melemaskan pembuluh darah.",
+    "harga": "Rp 22.000 (per strip 10 tablet)",
+    "efek_samping": "Pembengkakan kaki, pusing, sakit kepala, pipi merah, palpitasi. Efek serius: hipotensi berat, gagal jantung.",
+    "anjuran_pemakaian": "Dewasa: 5-10 mg sekali sehari. Anak: Tidak direkomendasikan. Konsumsi konsisten.",
+    "link_gambar": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1660700644_5fb37ee341ab59059e868af1"
+  },
+  {
+    "nama_obat": "Atorvastatin 20 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Atorvastatin kalsium setara dengan Atorvastatin 20 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktoza dan magnesium stearat.",
+    "deskripsi": "Atorvastatin adalah statin untuk menurunkan kolesterol LDL dan trigliserida, serta mencegah penyakit kardiovaskular.",
+    "harga": "Rp 45.000 (per strip 10 tablet)",
+    "efek_samping": "Nyeri otot, sakit kepala, mual, diare, infeksi saluran pernapasan. Efek serius: rabdomiolisis, hepatitis.",
+    "anjuran_pemakaian": "Dewasa: 10-80 mg sekali sehari, diminum malam hari. Hindari jus grapefruit.",
+    "link_gambar": "https://res-4.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1723705408_atorvastatin_20_mg_10_tablet"
+  },
+  {
+    "nama_obat": "Ciprofloxacin 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Ciprofloxacin hydrochloride setara dengan Ciprofloxacin 500 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Ciprofloxacin adalah antibiotik fluoroquinolone untuk infeksi bakteri seperti infeksi saluran kemih, infeksi pernapasan, dan infeksi kulit.",
+    "harga": "Rp 28.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, diare, pusing, sakit kepala, gangguan tendon. Efek serius: reaksi alergi, neuropati, patah tendon.",
+    "anjuran_pemakaian": "Dewasa: 250-750 mg setiap 12 jam (2 kali sehari). Selesaikan kursus. Hindari susu saat minum.",
+    "link_gambar": "https://res-2.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1698997034_cipro_nova-removebg-preview_%281%29"
+  },
+  {
+    "nama_obat": "Loratadine 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Loratadine 10 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa monohidrat dan magnesium stearat.",
+    "deskripsi": "Loratadine adalah antihistamin non-sedatif untuk meredakan gejala alergi seperti hay fever, urtikaria, dan gatal.",
+    "harga": "Rp 15.000 (per box 30 tablet)",
+    "efek_samping": "Sakit kepala, kantuk, mulut kering, kelelahan. Efek serius: aritmia jantung pada overdosis.",
+    "anjuran_pemakaian": "Dewasa dan anak >6 tahun: 10 mg sekali sehari. Anak 2-5 tahun: 5 mg sehari.",
+    "link_gambar": "https://res-4.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1644326677_loratadine_10_mg_10_tablet_hj"
+  },
+  {
+    "nama_obat": "Famotidine 20 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Famotidine 20 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin, hipromelosa, dan magnesium stearat.",
+    "deskripsi": "Famotidine adalah H2-receptor antagonist untuk mengurangi produksi asam lambung pada GERD, tukak lambung, dan heartburn.",
+    "harga": "Rp 24.000 (per strip 10 tablet)",
+    "efek_samping": "Pusing, sembelit, diare, sakit kepala. Efek serius: kebingungan pada lansia, aritmia.",
+    "anjuran_pemakaian": "Dewasa: 20-40 mg 1-2 kali sehari. Diminum sebelum makan. Maksimal 8 minggu tanpa konsultasi.",
+    "link_gambar": "https://res-5.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1659891360_famocid_20_mg_6_tablet"
+  },
+  {
+    "nama_obat": "Vitamin C 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Ascorbic acid (Vitamin C) 500 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa dan stearat.",
+    "deskripsi": "Vitamin C adalah suplemen antioksidan untuk mencegah dan mengobati defisiensi vitamin C, mendukung sistem imun, dan kesehatan kulit.",
+    "harga": "Rp 10.000 (per box 30 tablet)",
+    "efek_samping": "Mual, diare, kram perut pada dosis tinggi. Efek serius: batu ginjal pada konsumsi berlebih.",
+    "anjuran_pemakaian": "Dewasa: 500-1.000 mg sehari. Anak: 25-45 mg/kgBB/hari. Minum dengan makanan.",
+    "link_gambar": "https://res-4.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1660027808_61b36989b5a5e2062d9798df"
+  },
+  {
+    "nama_obat": "Centrum Multivitamin Tablet (Branded)",
+    "kandungan": "Setiap tablet mengandung campuran vitamin (A, B-kompleks, C, D, E) dan mineral (kalsium, zat besi, magnesium, seng) dalam dosis harian yang direkomendasikan.",
+    "deskripsi": "Centrum adalah multivitamin untuk suplemen nutrisi harian, mencegah defisiensi, dan mendukung kesehatan umum pada orang dewasa.",
+    "harga": "Rp 150.000 (per botol 100 tablet)",
+    "efek_samping": "Mual, sembelit, diare. Efek serius: reaksi alergi, interaksi obat.",
+    "anjuran_pemakaian": "Dewasa: 1 tablet sehari dengan makanan. Jangan melebihi dosis.",
+    "link_gambar": "https://mcgrocer.com/cdn/shop/files/centrum-women-multivitamins-and-minerals-tablets-30-per-pack-41786449297646.jpg?v=1737907944"
+  },
+  {
+    "nama_obat": "Salbutamol 2 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Salbutamol sulfat setara dengan Salbutamol 2 mg sebagai zat aktif utama, dengan eksipien seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Salbutamol adalah bronkodilator beta-2 agonis untuk mengobati asma akut dan pencegahan bronkospasme.",
+    "harga": "Rp 15.000 (per strip 10 tablet)",
+    "efek_samping": "Tremor, palpitasi, sakit kepala, hipokalemia. Efek serius: aritmia, paradoks bronkospasme.",
+    "anjuran_pemakaian": "Dewasa: 2-4 mg 3-4 kali sehari. Anak: 0.1-0.2 mg/kgBB/dosis. Gunakan inhaler jika tersedia.",
+    "link_gambar": "https://res-2.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1701404269_salbutamol_2_mg_10_tablet_first_medifarma-removebg-preview"
+  },
+  {
+    "nama_obat": "Simvastatin 20 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Simvastatin 20 mg sebagai zat aktif utama, dengan bahan tambahan seperti butil hidroksianisol dan magnesium stearat.",
+    "deskripsi": "Simvastatin adalah statin untuk menurunkan kolesterol dan mencegah komplikasi kardiovaskular pada pasien hiperlipidemia.",
+    "harga": "Rp 35.000 (per strip 10 tablet)",
+    "efek_samping": "Nyeri otot, sakit kepala, mual. Efek serius: miopati, rabdomiolisis, gangguan hati.",
+    "anjuran_pemakaian": "Dewasa: 10-40 mg sekali sehari malam. Hindari alkohol dan jus grapefruit.",
+    "link_gambar": "https://storage.googleapis.com/rxstorage/Product/Photos/farmaku_simvastatin-20-mg-tablet-hexp-01.jpg"
+  },
+  {
+    "nama_obat": "Losartan 50 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Losartan potassium 50 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Losartan adalah angiotensin II receptor blocker (ARB) untuk pengobatan hipertensi dan gagal jantung.",
+    "harga": "Rp 30.000 (per strip 10 tablet)",
+    "efek_samping": "Pusing, hidung tersumbat, nyeri punggung, diare. Efek serius: hipotensi, hiperkalemia, gagal ginjal.",
+    "anjuran_pemakaian": "Dewasa: 25-100 mg sekali sehari. Anak: Disesuaikan berat badan.",
+    "link_gambar": "https://res-5.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1660210821_5fb3745d41ab59059e86715d"
+  },
+  {
+    "nama_obat": "Sertraline 50 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Sertraline hydrochloride setara dengan Sertraline 50 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Sertraline adalah SSRI antidepresan untuk mengobati depresi mayor, OCD, gangguan panik, dan PTSD.",
+    "harga": "Rp 40.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, diare, insomnia, disfungsi seksual, sakit kepala. Efek serius: sindrom serotonin, pikiran bunuh diri.",
+    "anjuran_pemakaian": "Dewasa: Mulai 50 mg sekali sehari, maksimal 200 mg. Jangan hentikan mendadak.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/896615_1-10-2021_16-56-40-1665796406.webp"
+  },
+  {
+    "nama_obat": "Levothyroxine 100 mcg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Levothyroxine sodium 100 mcg sebagai zat aktif utama, dengan eksipien seperti pati jagung dan magnesium stearat.",
+    "deskripsi": "Levothyroxine adalah hormon tiroid sintetis untuk penggantian terapi pada hipotiroidisme primer dan sekunder.",
+    "harga": "Rp 25.000 (per strip 20 tablet)",
+    "efek_samping": "Palpitasi, tremor, insomnia pada overdosis. Efek serius: aritmia, osteoporosis.",
+    "anjuran_pemakaian": "Dewasa: 50-200 mcg sekali sehari pagi kosong perut. Pantau TSH rutin.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/219021_24-6-2020_14-9-16-1665821112.webp"
+  },
+  {
+    "nama_obat": "Aspirin 80 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Acetylsalicylic acid 80 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa dan stearat.",
+    "deskripsi": "Aspirin adalah NSAID untuk pencegahan serangan jantung, stroke, dan meredakan nyeri ringan.",
+    "harga": "Rp 14.000 (per box 100 tablet)",
+    "efek_samping": "Mual, heartburn, perdarahan lambung. Efek serius: ulkus gastrointestinal, perdarahan.",
+    "anjuran_pemakaian": "Dewasa: 75-325 mg sehari untuk pencegahan. Anak: Hindari kecuali rheumatoid.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/725603_9-7-2023_23-25-16.webp"
+  },
+  {
+    "nama_obat": "Clindamycin 300 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Clindamycin hydrochloride setara dengan Clindamycin 300 mg sebagai zat aktif utama, dengan pengisi seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Clindamycin adalah antibiotik linkosamida untuk infeksi bakteri anaerob, infeksi kulit, dan infeksi pernapasan.",
+    "harga": "Rp 35.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, diare, ruam. Efek serius: kolitis pseudomembranosa, reaksi alergi.",
+    "anjuran_pemakaian": "Dewasa: 150-450 mg setiap 6 jam (4 kali sehari). Selesaikan kursus.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/697493_29-8-2022_15-29-46-1665791412.webp"
+  },
+  {
+    "nama_obat": "Diclofenac 50 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Diclofenac sodium 50 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin, pati jagung, dan magnesium stearat untuk pembentukan tablet.",
+    "deskripsi": "Diclofenac adalah NSAID untuk meredakan nyeri dan peradangan pada kondisi seperti arthritis, radang sendi, nyeri muskuloskeletal, dan nyeri pasca operasi.",
+    "harga": "Rp 25.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, sakit perut, heartburn, diare, sakit kepala. Efek serius: ulkus lambung, perdarahan GI, gangguan ginjal, reaksi kulit.",
+    "anjuran_pemakaian": "Dewasa: 50-150 mg/hari dibagi 2-3 dosis. Anak: Disesuaikan berat badan. Minum dengan makanan.",
+    "link_gambar": "https://res-3.cloudinary.com/dk0z4ums3/image/upload/c_scale,h_500,w_500/v1/production/pharmacy/products/1669951851_diclofenac"
+  },
+  {
+    "nama_obat": "Tramadol 50 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Tramadol hydrochloride 50 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa monohidrat dan magnesium stearat.",
+    "deskripsi": "Tramadol adalah opioid agonis untuk pengobatan nyeri sedang hingga berat, seperti nyeri pasca operasi atau nyeri kronis.",
+    "harga": "Rp 35.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, muntah, pusing, kantuk, sembelit. Efek serius: depresi pernapasan, kejang, sindrom serotonin.",
+    "anjuran_pemakaian": "Dewasa: 50-100 mg setiap 4-6 jam, maksimal 400 mg/hari. Hindari alkohol.",
+    "link_gambar": "https://img-cdn.medkomtek.com/AFTN6mD_yFWA6aby3Dw2wedbfyU=/fit-in/690x387/smart/filters:quality(100):strip_icc():format(webp)/article/fO-HbyvUDqoRoQnPcxwyZ/original/1667723141-Tramadol.jpg"
+  },
+  {
+    "nama_obat": "Prednisone 5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Prednisone 5 mg sebagai zat aktif utama, dengan eksipien seperti laktosa, pati, dan magnesium stearat.",
+    "deskripsi": "Prednisone adalah kortikosteroid untuk mengobati peradangan pada kondisi seperti asma, rheumatoid arthritis, dan reaksi alergi berat.",
+    "harga": "Rp 20.000 (per strip 10 tablet)",
+    "efek_samping": "Peningkatan nafsu makan, peningkatan berat badan, insomnia, mood swings. Efek serius: osteoporosis, infeksi, ulkus lambung.",
+    "anjuran_pemakaian": "Dewasa: 5-60 mg/hari dibagi dosis. Kurangi secara bertahap. Minum pagi hari.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/174593_21-3-2025_10-33-23.webp"
+  },
+  {
+    "nama_obat": "Fluconazole 150 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Fluconazole 150 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Fluconazole adalah antifungal azole untuk mengobati infeksi jamur seperti kandidiasis vagina, oral, atau sistemik.",
+    "harga": "Rp 28.000 (per strip 1 tablet)",
+    "efek_samping": "Mual, sakit kepala, sakit perut, diare. Efek serius: hepatotoksisitas, prolongasi QT.",
+    "anjuran_pemakaian": "Dewasa: 150 mg dosis tunggal untuk kandidiasis. Infeksi berat: 200-400 mg/hari.",
+    "link_gambar": "https://storage.googleapis.com/rxstorage/Product/Photos/farmaku_fluconazole-150-mg-capsule-kf-01.jpg"
+  },
+  {
+    "nama_obat": "Metronidazole 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Metronidazole 500 mg sebagai zat aktif utama, dengan eksipien seperti pati jagung dan magnesium stearat.",
+    "deskripsi": "Metronidazole adalah antibiotik nitroimidazol untuk infeksi anaerob, trichomoniasis, dan amebiasis.",
+    "harga": "Rp 18.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, rasa logam di mulut, pusing. Efek serius: neuropati, disulfiram-like reaction dengan alkohol.",
+    "anjuran_pemakaian": "Dewasa: 500 mg 3 kali sehari selama 7-10 hari. Hindari alkohol selama terapi.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/762149_23-4-2025_14-8-51.webp"
+  },
+  {
+    "nama_obat": "Enalapril 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Enalapril maleate setara dengan Enalapril 10 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Enalapril adalah ACE inhibitor untuk pengobatan hipertensi dan gagal jantung.",
+    "harga": "Rp 22.000 (per strip 10 tablet)",
+    "efek_samping": "Batuk kering, pusing, hipotensi. Efek serius: angioedema, hiperkalemia, gagal ginjal.",
+    "anjuran_pemakaian": "Dewasa: 5-40 mg/hari dibagi 1-2 dosis. Pantau tekanan darah.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/6001-1665774173.webp"
+  },
+  {
+    "nama_obat": "Hydrochlorothiazide 25 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Hydrochlorothiazide 25 mg sebagai zat aktif utama, dengan eksipien seperti laktosa monohidrat dan magnesium stearat.",
+    "deskripsi": "Hydrochlorothiazide adalah diuretik thiazide untuk hipertensi dan edema.",
+    "harga": "Rp 15.000 (per strip 10 tablet)",
+    "efek_samping": "Hipokalemia, pusing, dehidrasi. Efek serius: hiponatremia, hiperurisemia.",
+    "anjuran_pemakaian": "Dewasa: 12.5-50 mg sekali sehari. Minum pagi hari.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200814033654359225_HYDROCHLOROTHIAZIDE.jpg"
+  },
+  {
+    "nama_obat": "Gabapentin 300 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Gabapentin 300 mg sebagai zat aktif utama, dengan pengisi seperti laktosa dan pati.",
+    "deskripsi": "Gabapentin adalah antikonvulsan untuk pengobatan epilepsi parsial dan nyeri neuropatik.",
+    "harga": "Rp 40.000 (per strip 10 kapsul)",
+    "efek_samping": "Pusing, kantuk, kelelahan, edema perifer. Efek serius: depresi pernapasan, pikiran bunuh diri.",
+    "anjuran_pemakaian": "Dewasa: Mulai 300 mg/hari, tingkatkan hingga 1.800-3.600 mg/hari dibagi 3 dosis.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_201703100149037035_416-Gabapentin.jpg"
+  },
+  {
+    "nama_obat": "Duloxetine 30 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Duloxetine hydrochloride setara dengan Duloxetine 30 mg sebagai zat aktif utama, dengan bahan tambahan seperti hipromelosa dan talk.",
+    "deskripsi": "Duloxetine adalah SNRI antidepresan untuk depresi mayor, nyeri neuropatik, dan fibromyalgia.",
+    "harga": "Rp 50.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, mulut kering, kantuk, sembelit. Efek serius: hipertensi, sindrom serotonin.",
+    "anjuran_pemakaian": "Dewasa: 30-60 mg sekali sehari. Jangan buka kapsul.",
+    "link_gambar": "https://ai-care.id/photos/630cd29e0a36c.jpg"
+  },
+  {
+    "nama_obat": "Escitalopram 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Escitalopram oxalate setara dengan Escitalopram 10 mg sebagai zat aktif utama, dengan eksipien seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Escitalopram adalah SSRI untuk depresi dan gangguan kecemasan umum.",
+    "harga": "Rp 45.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, insomnia, disfungsi seksual, peningkatan keringat. Efek serius: pikiran bunuh diri, hiponatremia.",
+    "anjuran_pemakaian": "Dewasa: 10-20 mg sekali sehari. Efek penuh setelah 2-4 minggu.",
+    "link_gambar": "https://www.neuroconinc.com/wp-content/uploads/2020/07/Depnote-20.jpeg"
+  },
+  {
+    "nama_obat": "Alprazolam 0.5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Alprazolam 0.5 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati jagung.",
+    "deskripsi": "Alprazolam adalah benzodiazepin untuk gangguan kecemasan dan panic disorder.",
+    "harga": "Rp 20.000 (per strip 10 tablet)",
+    "efek_samping": "Kantuk, pusing, kelemahan. Efek serius: ketergantungan, depresi pernapasan.",
+    "anjuran_pemakaian": "Dewasa: 0.25-0.5 mg 3 kali sehari, maksimal 4 mg/hari. Gunakan jangka pendek.",
+    "link_gambar": "https://static.wixstatic.com/media/64db44_5118cc4cfc154bb19562001bc9cee4c7~mv2.jpg/v1/fill/w_560,h_582,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gallery%20Produk%20Anti%20Hipertensi-01.jpg"
+  },
+  {
+    "nama_obat": "Warfarin 5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Warfarin sodium 5 mg sebagai zat aktif utama, dengan eksipien seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Warfarin adalah antikoagulan untuk pencegahan dan pengobatan trombosis dan emboli.",
+    "harga": "Rp 25.000 (per strip 10 tablet)",
+    "efek_samping": "Perdarahan, memar. Efek serius: perdarahan mayor, nekrosis kulit.",
+    "anjuran_pemakaian": "Dewasa: 2-10 mg/hari, pantau INR rutin. Hindari makanan vitamin K tinggi.",
+    "link_gambar": "https://5.imimg.com/data5/SELLER/Default/2023/11/361816786/DO/HZ/OP/197261491/warf.jpg"
+  },
+  {
+    "nama_obat": "Digoxin 0.25 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Digoxin 0.25 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati.",
+    "deskripsi": "Digoxin adalah glikosida jantung untuk gagal jantung dan fibrilasi atrium.",
+    "harga": "Rp 18.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, pusing, aritmia. Efek serius: toksisitas digoxin (hiperkalemia, bradikardia).",
+    "anjuran_pemakaian": "Dewasa: Loading 0.5-1 mg, maintenance 0.125-0.25 mg/hari. Pantau level digoxin.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20200910031753359225_DIGOXIN-0.25MG.jpg"
+  },
+  {
+    "nama_obat": "Furosemide 40 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Furosemide 40 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Furosemide adalah diuretik loop untuk edema dan hipertensi.",
+    "harga": "Rp 16.000 (per strip 10 tablet)",
+    "efek_samping": "Hipokalemia, dehidrasi, pusing. Efek serius: ototoksisitas, trombositopenia.",
+    "anjuran_pemakaian": "Dewasa: 20-80 mg/hari. Minum pagi hari.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230530101302359225_FUROSEMIDE.png"
+  },
+  {
+    "nama_obat": "Risperidone 2 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Risperidone 2 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa monohidrat dan hipromelosa.",
+    "deskripsi": "Risperidone adalah antipsikotik atipikal untuk skizofrenia dan bipolar mania.",
+    "harga": "Rp 55.000 (per strip 10 tablet)",
+    "efek_samping": "Berat badan naik, kantuk, akatisia. Efek serius: sindrom metabolik, tardive dyskinesia.",
+    "anjuran_pemakaian": "Dewasa: Mulai 1-2 mg/hari, tingkatkan hingga 4-8 mg/hari.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/images/18967.jpg"
+  },
+  {
+    "nama_obat": "Quetiapine 25 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Quetiapine fumarate setara dengan Quetiapine 25 mg sebagai zat aktif utama, dengan eksipien seperti hipromelosa dan magnesium stearat.",
+    "deskripsi": "Quetiapine adalah antipsikotik atipikal untuk skizofrenia, bipolar, dan depresi mayor.",
+    "harga": "Rp 60.000 (per strip 10 tablet)",
+    "efek_samping": "Kantuk, peningkatan berat badan, mulut kering. Efek serius: katarak, neutrofilopenia.",
+    "anjuran_pemakaian": "Dewasa: Mulai 25-50 mg/hari, tingkatkan bertahap hingga 300-800 mg/hari.",
+    "link_gambar": "https://assets.sayacare.in/api/images/product_image/large_image/1384/51/Quetiapine-25-mg-Tablet_1.webp"
+  },
+  {
+    "nama_obat": "Diazepam 5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Diazepam 5 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati jagung.",
+    "deskripsi": "Diazepam adalah benzodiazepin untuk kecemasan, kejang, dan relaksasi otot.",
+    "harga": "Rp 12.000 (per strip 10 tablet)",
+    "efek_samping": "Kantuk, pusing, kelemahan. Efek serius: ketergantungan, depresi pernapasan.",
+    "anjuran_pemakaian": "Dewasa: 2-10 mg 2-4 kali sehari. Gunakan jangka pendek.",
+    "link_gambar": "https://tovpet.com/cdn/shop/products/8846000182252_460x@2x.png?v=1736933913"
+  },
+  {
+    "nama_obat": "Lisinopril 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Lisinopril 10 mg sebagai zat aktif utama, dengan eksipien seperti kalsium fosfat dan magnesium stearat.",
+    "deskripsi": "Lisinopril adalah ACE inhibitor untuk hipertensi dan gagal jantung.",
+    "harga": "Rp 24.000 (per strip 10 tablet)",
+    "efek_samping": "Batuk, pusing, hipotensi. Efek serius: angioedema, gagal ginjal.",
+    "anjuran_pemakaian": "Dewasa: 5-40 mg sekali sehari.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20191209030418303669_LISINOPRIL-NOVEL-10MG-TAB-30S.jpg"
+  },
+  {
+    "nama_obat": "Azithromycin 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Azithromycin dihidrat setara dengan Azithromycin 500 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa mikrokristalin.",
+    "deskripsi": "Azithromycin adalah makrolida antibiotik untuk infeksi saluran pernapasan, kulit, dan kelamin.",
+    "harga": "Rp 30.000 (per strip 3 tablet)",
+    "efek_samping": "Mual, diare, sakit perut. Efek serius: aritmia QT, hepatitis.",
+    "anjuran_pemakaian": "Dewasa: 500 mg hari pertama, lalu 250 mg/hari selama 4 hari. Selesaikan kursus.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20210114112822359225_AZITHROMYCIN-DEXA-500MG-FC-CAPL-30S-24831-AZITHROMYCIN.jpg"
+  },
+  {
+    "nama_obat": "Sumatriptan 50 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Sumatriptan 50 mg sebagai zat aktif utama, dengan eksipien seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Sumatriptan adalah triptan untuk pengobatan akut migrain dengan atau tanpa aura.",
+    "harga": "Rp 80.000 (per strip 2 tablet)",
+    "efek_samping": "Sensasi tekanan dada, pusing, mual. Efek serius: vasospasme koroner, stroke.",
+    "anjuran_pemakaian": "Dewasa: 50-100 mg dosis tunggal saat serangan, maksimal 200 mg/24 jam.",
+    "link_gambar": "https://5.imimg.com/data5/SELLER/Default/2021/3/ZM/CU/TM/12931111/sumatriptan-50mg-tablets.jpg"
+  },
+  {
+    "nama_obat": "Ranitidine 150 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Ranitidine hydrochloride setara dengan Ranitidine 150 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Ranitidine adalah H2-receptor antagonist untuk mengurangi produksi asam lambung pada heartburn, GERD, dan tukak lambung.",
+    "harga": "Rp 20.000 (per strip 10 tablet)",
+    "efek_samping": "Sakit kepala, pusing, sembelit atau diare. Efek serius: kebingungan pada lansia, bradikardia.",
+    "anjuran_pemakaian": "Dewasa: 150 mg 2 kali sehari atau 300 mg sekali sehari malam. Maksimal 6 minggu tanpa konsultasi.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/109718_11-2-2025_14-10-29.webp"
+  },
+  {
+    "nama_obat": "Ondansetron 8 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Ondansetron hydrochloride dihidrat setara dengan Ondansetron 8 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Ondansetron adalah antagonis 5-HT3 untuk mencegah mual dan muntah akibat kemoterapi, radiasi, atau pasca operasi.",
+    "harga": "Rp 35.000 (per strip 10 tablet)",
+    "efek_samping": "Sakit kepala, sembelit, kelelahan. Efek serius: prolongasi QT, serotinin syndrome.",
+    "anjuran_pemakaian": "Dewasa: 8 mg 30 menit sebelum terapi, ulangi 8 jam kemudian. Maksimal 24 mg/hari.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/632605_29-8-2022_15-54-40-1665791367.webp"
+  },
+  {
+    "nama_obat": "Montelukast 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Montelukast sodium setara dengan Montelukast 10 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Montelukast adalah leukotrien receptor antagonist untuk pencegahan asma dan rhinitis alergi.",
+    "harga": "Rp 40.000 (per strip 10 tablet)",
+    "efek_samping": "Sakit kepala, sakit perut, infeksi saluran pernapasan. Efek serius: perubahan mood, pikiran bunuh diri.",
+    "anjuran_pemakaian": "Dewasa: 10 mg sekali sehari malam. Anak: Dosis disesuaikan usia.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/681985_4-7-2022_14-16-44-1665857159.webp"
+  },
+  {
+    "nama_obat": "Theophylline 300 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Theophylline 300 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati jagung.",
+    "deskripsi": "Theophylline adalah bronkodilator untuk pengobatan asma kronis dan PPOK.",
+    "harga": "Rp 25.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, sakit kepala, tremor, takikardia. Efek serius: aritmia, kejang.",
+    "anjuran_pemakaian": "Dewasa: 300-600 mg/hari dibagi 2-3 dosis. Pantau level serum.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/681985_4-7-2022_14-16-44-1665857159.webp"
+  },
+  {
+    "nama_obat": "Glipizide 5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Glipizide 5 mg sebagai zat aktif utama, dengan eksipien seperti laktosa monohidrat dan magnesium stearat.",
+    "deskripsi": "Glipizide adalah sulfonilurea untuk pengobatan diabetes tipe 2 dengan merangsang sekresi insulin.",
+    "harga": "Rp 18.000 (per strip 10 tablet)",
+    "efek_samping": "Hipoglikemia, mual, berat badan naik. Efek serius: reaksi alergi, porfiria.",
+    "anjuran_pemakaian": "Dewasa: Mulai 5 mg sekali sehari, maksimal 40 mg/hari. Minum 30 menit sebelum sarapan.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/957-1.webp"
+  },
+  {
+    "nama_obat": "Rosuvastatin 10 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Rosuvastatin kalsium setara dengan Rosuvastatin 10 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Rosuvastatin adalah statin untuk menurunkan kolesterol dan mencegah penyakit kardiovaskular.",
+    "harga": "Rp 50.000 (per strip 10 tablet)",
+    "efek_samping": "Nyeri otot, sakit kepala, mual. Efek serius: rabdomiolisis, hepatitis.",
+    "anjuran_pemakaian": "Dewasa: 5-40 mg sekali sehari malam. Hindari jus grapefruit.",
+    "link_gambar": "https://static.wixstatic.com/media/64db44_fa506c987d664de7a5ecf2361e3b8755~mv2.jpg/v1/fill/w_560,h_582,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gallery%20Produk%20Anti%20Hipertensi-01.jpg"
+  },
+  {
+    "nama_obat": "Spironolactone 25 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Spironolactone 25 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin dan magnesium stearat.",
+    "deskripsi": "Spironolactone adalah diuretik hemat kalium untuk hipertensi, gagal jantung, dan edema.",
+    "harga": "Rp 22.000 (per strip 10 tablet)",
+    "efek_samping": "Hiperkalemia, ginekomastia, mual. Efek serius: aritmia, dehidrasi.",
+    "anjuran_pemakaian": "Dewasa: 25-200 mg/hari dibagi 1-2 dosis. Pantau kalium serum.",
+    "link_gambar": "https://static.wixstatic.com/media/64db44_fa506c987d664de7a5ecf2361e3b8755~mv2.jpg/v1/fill/w_560,h_582,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Gallery%20Produk%20Anti%20Hipertensi-01.jpg"
+  },
+  {
+    "nama_obat": "Allopurinol 300 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Allopurinol 300 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati.",
+    "deskripsi": "Allopurinol adalah inhibitor xantin oksidase untuk pengobatan hiperurisemia dan gout.",
+    "harga": "Rp 28.000 (per strip 10 tablet)",
+    "efek_samping": "Ruam kulit, mual, diare. Efek serius: sindrom hipersensitivitas, hepatitis.",
+    "anjuran_pemakaian": "Dewasa: Mulai 100 mg/hari, tingkatkan hingga 300-800 mg/hari. Minum dengan makanan.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211230083158359225_ALLOPURINOL-TRIMAN-300MG-TAB-100S-removebg-preview.png"
+  },
+  {
+    "nama_obat": "Colchicine 0.5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Colchicine 0.5 mg sebagai zat aktif utama, dengan eksipien seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Colchicine adalah antiinflamasi untuk pengobatan serangan gout akut dan pencegahan.",
+    "harga": "Rp 30.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, muntah, diare. Efek serius: miyelosupresi, neuropati.",
+    "anjuran_pemakaian": "Dewasa: 1.2 mg awal, lalu 0.6 mg setelah 1 jam untuk akut. Maksimal 1.8 mg/serangan.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20230830103810359225_COLCHICINE.png"
+  },
+  {
+    "nama_obat": "Methotrexate 2.5 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Methotrexate 2.5 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan pati jagung.",
+    "deskripsi": "Methotrexate adalah antimetabolit untuk rheumatoid arthritis, psoriasis, dan kanker.",
+    "harga": "Rp 45.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, kelelahan, stomatitis. Efek serius: hepatotoksisitas, supresi sumsum tulang.",
+    "anjuran_pemakaian": "Dewasa RA: 7.5-25 mg seminggu sekali. Suplemen folat direkomendasikan.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/405376_21-8-2024_17-53-8.webp"
+  },
+  {
+    "nama_obat": "Hydroxychloroquine 200 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Hydroxychloroquine sulfat setara dengan Hydroxychloroquine 200 mg sebagai zat aktif utama, dengan eksipien seperti selulosa mikrokristalin.",
+    "deskripsi": "Hydroxychloroquine adalah antimalaria dan DMARD untuk lupus dan RA.",
+    "harga": "Rp 35.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, diare, sakit kepala. Efek serius: retinopati, kardiomiopati.",
+    "anjuran_pemakaian": "Dewasa: 200-400 mg/hari. Pantau mata tahunan.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/405376_21-8-2024_17-53-8.webp"
+  },
+  {
+    "nama_obat": "Valacyclovir 500 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Valacyclovir hydrochloride setara dengan Valacyclovir 500 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Valacyclovir adalah antiviral prodrug acyclovir untuk herpes zoster, genital herpes, dan cold sores.",
+    "harga": "Rp 55.000 (per strip 10 tablet)",
+    "efek_samping": "Sakit kepala, mual, sakit perut. Efek serius: trombositopenia, ensefalopati.",
+    "anjuran_pemakaian": "Dewasa herpes zoster: 1 g 3 kali sehari selama 7 hari. Mulai secepat mungkin.",
+    "link_gambar": ""
+  },
+  {
+    "nama_obat": "Acyclovir 400 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Acyclovir 400 mg sebagai zat aktif utama, dengan eksipien seperti laktosa monohidrat dan magnesium stearat.",
+    "deskripsi": "Acyclovir adalah antiviral untuk infeksi herpes simplex, varicella zoster, dan pencegahan pada imunokompromais.",
+    "harga": "Rp 40.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, diare, sakit kepala. Efek serius: kristaluria, gangguan ginjal.",
+    "anjuran_pemakaian": "Dewasa herpes simplex: 400 mg 3 kali sehari selama 7-10 hari. Minum banyak air.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/467874_24-3-2025_14-6-41.webp"
+  },
+  {
+    "nama_obat": "Oseltamivir 75 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Oseltamivir fosfat setara dengan Oseltamivir 75 mg sebagai zat aktif utama, dengan pengisi seperti talk dan povidone.",
+    "deskripsi": "Oseltamivir adalah neuraminidase inhibitor untuk pengobatan dan pencegahan influenza A dan B.",
+    "harga": "Rp 120.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, muntah, sakit kepala. Efek serius: reaksi neuropsikiatrik, resistensi.",
+    "anjuran_pemakaian": "Dewasa: 75 mg 2 kali sehari selama 5 hari. Mulai dalam 48 jam gejala.",
+    "link_gambar": "https://d2qjkwm11akmwu.cloudfront.net/products/467874_24-3-2025_14-6-41.webp"
+  },
+  {
+    "nama_obat": "Cefixime 100 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Cefixime trihidrat setara dengan Cefixime 100 mg sebagai zat aktif utama, dengan bahan tambahan seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Cefixime adalah sefalosporin generasi ketiga untuk infeksi saluran kemih, otitis media, dan faringitis.",
+    "harga": "Rp 32.000 (per strip 10 tablet)",
+    "efek_samping": "Diare, mual, ruam. Efek serius: kolitis pseudomembranosa, reaksi alergi.",
+    "anjuran_pemakaian": "Dewasa: 400 mg/hari dosis tunggal atau dibagi 2. Selesaikan kursus.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20241113083030359225_Cefixime-Trihydrate-Kapsul-100-mg.webp"
+  },
+  {
+    "nama_obat": "Doxycycline 100 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Doxycycline hicl setara dengan Doxycycline 100 mg sebagai zat aktif utama, dengan pengisi seperti selulosa mikrokristalin.",
+    "deskripsi": "Doxycycline adalah tetrasiklin untuk infeksi bakteri, akne, malaria profilaksis, dan RMSF.",
+    "harga": "Rp 25.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, fotosensitivitas, esofagitis. Efek serius: intrakranial hipertensi, hepatotoksisitas.",
+    "anjuran_pemakaian": "Dewasa: 100 mg 2 kali sehari hari pertama, lalu 100 mg sekali sehari. Hindari berbaring setelah minum.",
+    "link_gambar": "https://d3bbrrd0qs69m4.cloudfront.net/images/product/apotek_online_k24klik_20211228013103359225_DOXYCYCLINE-YARINDO-100MG-CAP-100S-removebg-preview.png"
+  },
+  {
+    "nama_obat": "Nitrofurantoin 100 mg Kapsul (Generic)",
+    "kandungan": "Setiap kapsul mengandung Nitrofurantoin 100 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Nitrofurantoin adalah nitrofuran untuk infeksi saluran kemih tidak rumit.",
+    "harga": "Rp 28.000 (per strip 10 kapsul)",
+    "efek_samping": "Mual, urine coklat, sakit kepala. Efek serius: neuropati, hepatitis.",
+    "anjuran_pemakaian": "Dewasa: 100 mg 2 kali sehari selama 7 hari. Minum dengan makanan.",
+    "link_gambar": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_1080,h_810,q_70,fl_lossy/v1741188696/uk/services-setup/women-s-health-unit/cystitis-unit/nitrofurantoin-unit/ronaizmxx2i5x5sl709p.png"
+  },
+  {
+    "nama_obat": "Sulfamethoxazole/Trimethoprim 800/160 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Sulfamethoxazole 800 mg dan Trimethoprim 160 mg sebagai zat aktif utama, dengan eksipien seperti selulosa dan magnesium stearat.",
+    "deskripsi": "Sulfamethoxazole/Trimethoprim adalah kombinasi sulfa untuk infeksi saluran kemih, pneumonia PCP, dan shigellosis.",
+    "harga": "Rp 20.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, ruam, hiperkalemia. Efek serius: sindrom Stevens-Johnson, agranulositosis.",
+    "anjuran_pemakaian": "Dewasa: 1 tablet setiap 12 jam selama 10-14 hari. Minum banyak air.",
+    "link_gambar": "https://res.cloudinary.com/zava-www-uk/image/upload/fl_progressive/a_exif,f_auto,e_sharpen:100,c_fit,w_1080,h_810,q_70,fl_lossy/v1741188696/uk/services-setup/women-s-health-unit/cystitis-unit/nitrofurantoin-unit/ronaizmxx2i5x5sl709p.png"
+  },
+  {
+    "nama_obat": "Paroxetine 20 mg Tablet (Generic)",
+    "kandungan": "Setiap tablet mengandung Paroxetine hydrochloride setara dengan Paroxetine 20 mg sebagai zat aktif utama, dengan bahan tambahan seperti laktosa dan magnesium stearat.",
+    "deskripsi": "Paroxetine adalah SSRI untuk depresi, OCD, panic disorder, dan social anxiety.",
+    "harga": "Rp 42.000 (per strip 10 tablet)",
+    "efek_samping": "Mual, disfungsi seksual, kantuk. Efek serius: sindrom serotonin, pikiran bunuh diri.",
+    "anjuran_pemakaian": "Dewasa: Mulai 20 mg sekali sehari, maksimal 60 mg. Efek penuh setelah 4 minggu.",
+    "link_gambar": "https://5.imimg.com/data5/SELLER/Default/2021/3/DY/ZW/CV/3894606/paromits-20.jpeg"
+  }
+]
+
+
+
