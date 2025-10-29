@@ -5,5 +5,11 @@
       "src": "api/obat.js",
       "use": "@vercel/node"
     }
+  ],
+  "routes": [
+    {
+      "src": "/api/obat",
+      "dest": "/api/obat.js"
+    }
   ]
 }
